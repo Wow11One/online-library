@@ -1,0 +1,15 @@
+[submodule "book-rest-api"]
+	path = book-rest-api
+	url = https://github.com/Wow11One/book-rest-api.git
+[submodule "review-microservice"]
+	path = review-microservice
+	url = https://github.com/Wow11One/review-microservice.git
+[submodule "mail-microservice"]
+	path = mail-microservice
+	url = https://github.com/Wow11One/mail-microservice
+[submodule "react-book-client"]
+	path = react-book-client
+	url = https://github.com/Wow11One/react-book-client
+[submodule "book-app-gateway"]
+	path = book-app-gateway
+	url = https://github.com/Wow11One/book-app-gateway
